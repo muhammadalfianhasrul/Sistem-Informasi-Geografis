@@ -1,0 +1,32 @@
+Resume Pertemuan 2 Sistem Informasi Geografis
+ 
+Latar Belakang Masalah
+Data merupakan bagian yang tidak dapat dipisahkan dalam Sistem Informasi Geografis. Data SIG dapat berupa data spasial dan data atribut. Khusus pada postingan kali ini membahas mengenai data spasial. Data spasial atau keruangan merupakan data yang merepresentasikan kenampakan nyatanya adalah permukaan bumi. Data spasial terdiri dari dua macam yaitu data vektor dan data raster.
+1.	Apa yang dimaksud dengan data vektor pada Geospasial ?
+2.	Apa yang dimaksud dengan data raster pada Geospasial ?
+3.	Apa saja kelebihan dan kekurangan dari data vektor tersebut ?
+4.	Apa saja kelebihan dan kekurangan dari data raster tersebut ?
+Pembahasan
+Data vektor adalah data yang menampilkan pola keruangan dalam bentuk titik, garis, kurva atau poligon. Data vektor sangan baik untuk merepresentasikan fitur-fitur jaringan jalan, gedung, rel kereta dan letak koordinat.
+Data raster adalah data yang menampilkan sisi ruang bumi dalam bentuk pixel (picture element) yang membentuk grid/petak dan dihasilkan dari penginderaan jauh. Pada data raster, resolusi tergantung pada ukuran pixelnya. Apabila semakin kecil ukuran permukaan bumi yang direpresentasikan maka akan semakin tinggi resolusinya. Data raster sangan baik untuk menggambarkan keadaan jenis tanah, vegetasi dan kelembaban tanah.
+Kelebihan dari data vektor yaitu :
+-	Lebih efisien dalam ruang penyimpanan.
+-	Memiliki resolusi spasial yang tinggi.
+-	Representasi grafis data spasialnya sangat mirip dengan peta garis buatan manusia.
+Kekurangan dari data vektor yaitu :
+-	Struktur data kompleks.
+-	Data tidak mudah dimanipulasi.
+-	Memerlukan perangkat komputer yang lebih mahal.
+Kelebihan dari data raster yaitu :
+-	Mudah dimanupulasi dengan fungsi matematis sederhana.
+-	Teknologi yang digunakan cukup murah.
+-	Overlay data raster dengan data inderaja mudah dilakukan.
+Kekurangan dari data raster yaitu :
+-	Memerlukan ruang penyimpanan yang besar.
+-	Transformasi koordinat dan proyeksi sulit dilakukan.
+-	Lebih sulit untuk merepresentasikan hubungan topolagikal.
+Penutup
+Kesimpulan
+Jadi dapat disimpulkan bahwa data vektor dan data raster sangatlah berbeda, perbedaannya sendiri terlihat pada pengertian dari vektor dan raster itu sendiri. Dan adapun data vektor dan data raster juga memiliki kelebihan dan kekurangan masing-masing serta memiliki proses yang berbeda-beda dalam menampilkan bentuk bumi.
+Saran
+Saran saya agar pembelajaran mengenai data geospasial lebih dijelaskan/diterangkan lagi agar supaya mahasiswa dapat lebih memahami apa sih yang dimaksud dengan data geospasial terutama pada bagian data vektor dan data rester itu sendiri.
