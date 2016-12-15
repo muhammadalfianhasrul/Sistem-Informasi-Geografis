@@ -1,0 +1,91 @@
+ Resume Pertemuan 3 Sistem Informasi Geografis
+
+ 
+
+Latar Belakang Masalah
+
+ 
+
+pada postingan kali ini membahas mengenai data spasial. Data spasial merupakan data yang merepresentasikan kenampakan nyatanya ialah permukaan bumi. Data spasial terdiri dari dua macam yaitu data vektor geospasial dan data raster geospasial. Data vektor geospasial dapat mempresentasikan permukaan bumi sebagai titik, garis dan polygon. Dipostingan ini juga kita dapat mencari info tentang jumlah seperti jumlah kota yang ada pada beberapa lokasi dengan menggunakan penerapan data vektor seperti berikut.
+ 
+
+Apa saja yang ada didalam data vektor geospasial ? 
+
+ Apa fungsi dari Shapefile/shp ? 
+
+ Sistem apa yang digunakan untuk melihat jumlah shapefile ? 
+
+ Apa saja yang akan diperlukan untuk melihat jumlah shapefile ?
+
+ 
+
+Data vektor adalah data yang menampilkan pola keruangan dalam bentuk titik, garis, kurva atau poligon. Data vektor sangan baik untuk merepresentasikan fitur-fitur jaringan jalan, gedung, rel kereta dan letak koordinat. Didalam data vektor terdapat banyak class, salah satunya adalah shapefile atau shp.
+
+ 
+
+Shapefile sendiri berfungsi untuk melakukan perhitungan jumlah seperti menghitung jumlah kota yang ada pada ruang lingkup tertentu dengan menggunakan beberapa macam sistem.
+
+ 
+
+Sistem yang digunakan untuk melihat jumlah shapefile ataupun menghitung jumlah shapefile bisa menggunakan beberapa sistem, disini kita akan menggunakan sistem python karena bisa dikatakan mudah dalam penggunaannya.
+
+ 
+
+Untuk melihat data itupun kita dapat menggunakan Phyton, PySHP, dan pipi yang dapat dijalankan prosesnya pada Command prompt dengan mudah.
+
+ 
+
+Penutup
+
+ 
+
+Kesimpulan
+
+ 
+
+Jadi dapat disimpulkan bahwa untuk menghitung jumlah data yang ada pada shapefile ataupun  melihat data shapefile bisa dikatakan cukup mudah karena hanya bermain dengan Command Prompt dan masih banyak lagi.
+
+ 
+
+Saran
+
+ 
+
+Saran saya agar materi tentang data vektor dan shapefile lebih dipahami karena dapat menentukan jumlah shapefile seperti jumlah kota sehingga lebih mudah untuk para penggunanya apabila dapat memahami dengan baik.
+
+ 
+
+ Link Github :
+
+ 
+
+Nama : Muhammad Alfian Hasrul
+
+Npm : 1143012
+
+Kelas : 4C
+
+Prodi : D4 Teknik Informatika Politeknik Pos Indonesia
+
+Mata Kuliah : Sistem Informasi Geografis
+
+ 
+
+Link Mata Kuliah : Sistem Informasi Geografis
+
+ 
+
+Referensi :
+
+http://latcoding.com/2015/12/26/tipe-data-di-gis-apa-aja/ 
+
+ 
+
+Scan Plagiarisme :
+
+ 
+
+https://drive.google.com/open?id=0B1LBZPn50h3meGdFeUFGc29QSlE  
+
+
+https://drive.google.com/open?id=0B1LBZPn50h3mM3lsSmROUlAxR3M 
